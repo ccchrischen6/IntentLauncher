@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">内容启动器</string>
+    <string name="B_1">发送邮件</string>
+    <string name="B_2">启动界面</string>
+    <string name="B_3">启动相机</string>
+    <string name="C_1">仅发送标题</string>
+    <string name="E_1">标题</string>
+    <string name="E_2">信息</string>
+</resources>
